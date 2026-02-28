@@ -3,3 +3,5 @@ burger
 nachos
 pasta
 noodles
+ fried rice
+ parotta
